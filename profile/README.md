@@ -10,7 +10,7 @@
 
 <h2 align="center"> 🌟 Welcome to Our Minecraft Community </h2>
 
-Dive into a world of endless possibilities and adventure with our Minecraft survival servers, powered by custom plugins and fueled by a vibrant community. From ukrainians for ukrainians, and not only! We welcome all nations and people from all over the world. Nice to meet you!
+Dive into a world of endless possibilities and adventure with our Minecraft survival servers, powered by custom plugins and fueled by a vibrant community. From ukrainians for ukrainians, and not only! We welcome almost all nations and people from all over the world. Will be pleasure to meet you!
 
 ---
 
@@ -37,7 +37,7 @@ Dive into a world of endless possibilities and adventure with our Minecraft surv
 2. **Explore the Wiki**
     - Visit our [Wiki](https://www.uaproject.xyz/wiki) to get started with tutorials, FAQs, and gameplay tips.
 3. **Get Involved**
-    Participate in our events and connect with others in our [Discord Community](https://discord.gg/uaproject).
+    - Participate in our events and connect with others in our [Discord Community](https://discord.gg/uaproject).
 
 ---
 
