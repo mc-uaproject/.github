@@ -1,46 +1,62 @@
-<h2 align="left">UAProject - Complex of Unique Minecraft Servers</h2>
+<h2 align="center">UAProject - Complex of Unique Minecraft Servers </h2>
 
 ###
-
-#### Owners stats, since organization has no activity yet
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikeepcalm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikeepcalm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="uaproject.png" width="350" title="hover text">
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://www.uaproject.xyz/_image?href=%2F_astro%2Fplayers.dVl4qXRc.gif&f=webp"  />
+<h2 align="center"> 🌟 Welcome to Our Minecraft Community </h2>
 
-###
+Dive into a world of endless possibilities and adventure with our Minecraft survival servers, powered by custom plugins and fueled by a vibrant community. From ukrainians for ukrainians, and not only! We welcome all nations and people from all over the world. Nice to meet you!
+
+---
+
+### 🌍 About Our Minecraft Community
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="spring logo"  />
-
-
-^ Stack, which is mainly used for developing projects under the organization. Surely will be updated later!
-
+  <ul>
+    <li>🎮 <b>Unique Minecraft Survival Servers</b> - Explore and thrive in customized worlds built for adventure.</li> 
+    <li>⚙️ <b>Custom Plugins</b> - Handcrafted by us, tailored for a truly unique experience.</li> 
+    <li>🌐 <b>Modern Website</b> - Featuring a wiki powered by <a href="https://starlight.astro.build/" target="_blank">Starlight</a> for all your informational needs.</li> 
+    <li>🤝 <b>Friendly Community</b> - Join a welcoming group of players with diverse interests and shared goals.</li> 
+    <li>🎉 <b>Exciting Events</b> - Collaborations, partnerships, and community-driven celebrations await!</li> 
+  </ul> 
 </div>
 
-###
+---
 
-<br clear="both">
+### 🚀 Getting Started
 
-###
+1. **Join the Server**
+    - Launch Minecraft (Java Edition).
+    - Add our server IP: mc.uaproject.xyz
+    - Dive in and start your journey!
+2. **Explore the Wiki**
+    - Visit our [Wiki](https://www.uaproject.xyz/wiki) to get started with tutorials, FAQs, and gameplay tips.
+3. **Get Involved**
+    Participate in our events and connect with others in our [Discord Community](https://discord.gg/uaproject).
+
+---
+
+### 🛠️ Contributions
+
+We love collaborating with the community! Whether you’re a developer, designer, or just a passionate player, here’s how you can contribute:
+  - **Report Bugs**: Found a glitch? Let us know in the [Issues](https://discord.com/channels/1221552838807654450/1221886328040587304).
+  - **Suggest Features**: Got an idea? Share it on our [Discussion Board](https://discord.com/channels/1221552838807654450/1221861941778055363).
+  - **Submit Code**: Fork the repo and send us a pull request with your awesome improvements.
+
+--- 
+
+### 📬 Contact Us
+  - Discord: [Join Our Community](https://discord.gg/uaproject)
+  - Email: uaprojectcorp@gmail.com
+  - Website: [Here we are as well!](https://www.uaproject.xyz/)
+
+### ❤️ Support
+Love what we’re building? You can support us in the following ways:
+  - Spread the word! Share our project with friends and fellow players.
+  - Contribute via GitHub or donate to keep the servers running smoothly.
+--- 
