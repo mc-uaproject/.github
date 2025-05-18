@@ -35,9 +35,9 @@ Dive into a world of endless possibilities and adventure with our Minecraft surv
     - Add our server IP: mc.uaproject.xyz
     - Dive in and start your journey!
 2. **Explore the Wiki**
-    - Visit our [Wiki](https://www.uaproject.xyz/wiki) to get started with tutorials, FAQs, and gameplay tips.
+    - Visit our [Wiki](https://docs.uaproject.xyz/) to get started with tutorials, FAQs, and gameplay tips.
 3. **Get Involved**
-    - Participate in our events and connect with others in our [Discord Community](https://discord.gg/uaproject).
+    - Participate in our events and connect with others in our [Discord Community](https://discord.gg/sp9K3hg4PU).
 
 ---
 
